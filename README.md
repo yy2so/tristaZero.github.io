@@ -33,19 +33,19 @@
 ###  *Event & Conference Appearances*~~活动经历~~
 
 > **2021**    
-> - [ITPUB.NET](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)，“[借力 Apache ShardingSphere，打造企业分布式数据库平台生态](https://www.bilibili.com/video/BV1Yy4y147oi/)”
-> - [OpenTEKr 开源人物专访潘娟](https://b23.tv/el3K3A)
+> - [ITPUB.NET - Leveraging Apache ShardingSphere to create an enterprise distributed database platform ecosystem](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)，~~[借力 Apache ShardingSphere，打造企业分布式数据库平台生态](https://www.bilibili.com/video/BV1Yy4y147oi/)~~
+> - [OpenTEKr - Open Source Notable Personalities Interview] ~~开源人物专访潘娟]~~(https://b23.tv/el3K3A)
 > - [SphereEx Founding Team's Exclusive Interview with SegmentFault] ~~思否[专访 SphereEx 创始团队]~~(https://segmentfault.com/a/1190000039999206)
 > - [Pan Juan, the only female Apache Member in China]~~[中国唯一一位女性 Apache Member 潘娟：我们还是要走出自己与众不同的 My Way]~~(https://segmentfault.com/a/1190000040352390)
 > - [ApacheCon Asia 2021 —— Incubator Track Chair]~~[ApacheCon Asia 2021 —— Incubator track]~~(https://mp.weixin.qq.com/s/bADxdBh9533LZaKuRlRyUg) 出品人
-> - [2021 Amazon Cloud Technology China Summit, "Apache ShardingSphere: Open Source Distributed Database Middleware Ecosystem Building"]~~[2021 亚马逊云科技中国峰会]~~(https://giac.msup.com.cn/course?id=15253)，“Apache ShardingSphere 分布式数据库中间件开源生态构建”
-> - [GIAC 2021 Global Internet Architecture Conference, "Apache Sharding Sphere DB Plus Architecture Ecosystem Evolution"]~~[GIAC 2021 全球互联网架构大会]~~(https://gotc.oschina.net/)，“Apache Sharding Sphere DB Plus 架构生态演进”
-> - [GOTC 2021 Global Opensource Technology Conference, "How to Create an Open Source Distributed Database Ecosystem"]~~GOTC 2021 [全球开源技术峰会]~~(https://2021.openinfra.asia/schedule.html)，“如何打造数据库分布式开源生态”
+> - [2021 Amazon Cloud Technology China Summit, "Apache ShardingSphere: Open Source Distributed Database Middleware Ecosystem Building"]~~[2021 亚马逊云科技中国峰会]~~(https://giac.msup.com.cn/course?id=15253)，~~“Apache ShardingSphere 分布式数据库中间件开源生态构建”~~
+> - [GIAC 2021 Global Internet Architecture Conference, "Apache Sharding Sphere DB Plus Architecture Ecosystem Evolution"]~~[GIAC 2021 全球互联网架构大会]~~(https://gotc.oschina.net/)，~~“Apache Sharding Sphere DB Plus 架构生态演进”~~
+> - [GOTC 2021 Global Opensource Technology Conference, "How to Create an Open Source Distributed Database Ecosystem"]~~GOTC 2021 [全球开源技术峰会]~~(https://2021.openinfra.asia/schedule.html)，~~“如何打造数据库分布式开源生态”~~
 > - [OpenInfra Days Asia 2021](https://2021.openinfra.asia/schedule.html), “The Database Governance Mechanism of ShardingSphere’s Distributed Database Middleware Ecosystem”
-> - [2021 Amazon Cloud Technology China Summit Dev Day, "Create a Distributed Database Ecosystem for Enterprise Cloud Applications"]~~2021 [亚马逊云科技中国峰会]~~(https://aws.amazon.com/cn/about-aws/events/summit2021/index_dev/) Dev Day，“构建云端的企业应用级分布式数据库生态”
-> - [[Great Open Source Developers], "How I started my 'Great Developer' Journey"]~~[【了不起的开源开发者】线上专场]~~(https://www.huodongxing.com/event/7613387577423?utm_source=主页&utm_medium=banner_291022504540&utm_campaign=homepage&qd=6628363043952&type=SITE_BANNER_AD_CLICK), “[如何踏上成为“了不起的开发者”之路](https://twitter.com/osidays/status/1444973692178599936)”
+> - [2021 Amazon Cloud Technology China Summit Dev Day, "Create a Distributed Database Ecosystem for Enterprise Cloud Applications"]~~2021 [亚马逊云科技中国峰会]~~(https://aws.amazon.com/cn/about-aws/events/summit2021/index_dev/) Dev Day，~~“构建云端的企业应用级分布式数据库生态”~~
+> - [[Great Open Source Developers], "How I started my 'Great Developer' Journey"]~~[【了不起的开源开发者】线上专场]~~(https://www.huodongxing.com/event/7613387577423?utm_source=主页&utm_medium=banner_291022504540&utm_campaign=homepage&qd=6628363043952&type=SITE_BANNER_AD_CLICK), ~~“[如何踏上成为“了不起的开发者”之路]~~(https://twitter.com/osidays/status/1444973692178599936)”
 > - [Open Source India 2021](https://www.opensourceindia.in/conference-agenda-2021/)，“[How to Create a Distributed Database Ecosystem for Enterprise Cloud Applications](https://twitter.com/osidays/status/1444973692178599936)”
-> - [OADC Open Atom Developer Conference, "Apache ShardingSphere Open Source Distributed Database Ecosystem in Practice"]~~OADC [开放原子全球开发者大会]~~(https://mp.weixin.qq.com/s/X4nOq5YmmMn9XMp_nItOpw)，“Apache ShardingSphere分布式数据库开源生态实战”
+> - [OADC Open Atom Developer Conference, "Apache ShardingSphere Open Source Distributed Database Ecosystem in Practice"]~~OADC [开放原子全球开发者大会]~~(https://mp.weixin.qq.com/s/X4nOq5YmmMn9XMp_nItOpw)，~~“Apache ShardingSphere分布式数据库开源生态实战”~~
 > - [Named CAICT 2021 OSCAR "Top Open Source Personality"]~~获得[中国信通院 2021 OSCAR 尖峰开源人物]~~(https://cdn.modb.pro/db/111305)
 > - [2021 The 6th China Open Source Annual Conference (COSCon'21) Main Forum “Future Exploration and Practice of Open Source Community”]~~[2021 第六届中国开源年会（COSCon'21）主论坛“开源社区未来探索与实践”]~~(https://www.bilibili.com/video/BV13T4y1d7dk?spm_id_from=333.999.0.0)
 > - [Roundtable Discussion "Exploration of the Development and Commercialization of Cloud-Native Open Source" at Tencent Digital Ecosystem Conference]~~[腾讯数字生态大会云原生开源生态专场圆桌讨论“云原生开源发展与商业化探索？”]~~(https://des.cloud.tencent.com/2021/?code=031h4e0001JePM176K100naEBn2h4e0m&state=STATE)
@@ -55,8 +55,8 @@
 > **2020**    
 > - [Named "2020 China Open Source Pioneer"]~~被评为[2020 中国开源先锋人物]~~(https://mp.weixin.qq.com/s/f_0PuVsD8iOt3owfYU0xMg)
 > - [The 2020 Annual Summit of the Open Atom Open Source Foundation, "Create a Diverse and Active Open Source Community Step by Step”]~~[开放原子开源基金会 2020 年度峰会]~~(https://segmentfault.com/area/openatomcon-2020), ~~"循序渐进打造多样化活跃开源社区"~~
-> - [2020 China Software Technology Conference, "Database Architecture Evolution of Distributed Database Middleware"]~~[2020 中国软件技术大会]~~(http://www.softcon.cn), "分布式数据库中间件的数据库化架构演进"
-> - [Open Source Software Supply Chain Summit 2020, "Apache ShardingSphere Distributed Database Ecosystem Architecture Evolution”]~~[开源软件供应链 2020 峰会]~~(https://isrc.iscas.ac.cn/summer2020/#/summitmeeting), " Apache ShardingSphere 分布式数据库生态圈架构演进"
+> - [2020 China Software Technology Conference, "Database Architecture Evolution of Distributed Database Middleware"]~~[2020 中国软件技术大会]~~(http://www.softcon.cn), ~~"分布式数据库中间件的数据库化架构演进"~~
+> - [Open Source Software Supply Chain Summit 2020, "Apache ShardingSphere Distributed Database Ecosystem Architecture Evolution”]~~[开源软件供应链 2020 峰会]~~(https://isrc.iscas.ac.cn/summer2020/#/summitmeeting), ~~"Apache ShardingSphere 分布式数据库生态圈架构演进"~~
 > - [PGConf.Asia (PostgreSQL Conference Asia)], ~~[构建 PostgreSQL 的分布式数据库中间件生态体系]~~(https://mp.weixin.qq.com/s/7RpKbWPytzMH9VSgjxxCoA)
 > - [Apache Roadshow China 2020, “Minimalist Strategy for Distributed Database Middleware Ecosystem Use”]~~Apache Roadshow China 2020, "数据库化的分布式数据库中间件生态圈极简使用策略"~~
 > - ApacheCon @Home 2020, [Another backend storage solution for the APM system](https://www.youtube.com/watch?v=OazS_3r3NM4&t=165s) (In English)
@@ -104,7 +104,7 @@
 > - [A story of newbie DBA](https://mp.weixin.qq.com/s/1akzby9OaFuv3hn-2RFQ8A)
 > - [Juan Pan: Create a Diverse and Active Open-Source Community Step by Step]~~[潘娟：循序渐进打造活跃的多元化社区]~~(https://mp.weixin.qq.com/s/uVz_UU5roropVrCSg0X91A)
 > - [Why Should You Get Involved in an Open-Source Community?](https://medium.com/nerd-for-tech/why-should-you-get-involved-in-an-open-source-community-f5516657324)
-> - [How Can Students Participate in Open-Source Communities?](https://shardingsphere.medium.com/how-can-students-participate-in-open-source-communities-ff30a08169ef)([学生群体如何参与开源社区](https://mp.weixin.qq.com/s/aWSY0xD6A_-vxOghznd8xQ))
+> - [How Can Students Participate in Open-Source Communities?](https://shardingsphere.medium.com/how-can-students-participate-in-open-source-communities-ff30a08169ef)~~[学生群体如何参与开源社区]~~(https://mp.weixin.qq.com/s/aWSY0xD6A_-vxOghznd8xQ))
 
 > ***Technical*~~技术解读~~**
 > - [The practice solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
